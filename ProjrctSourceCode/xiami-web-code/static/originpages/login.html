@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport"
+	      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>登录/注册</title>
+	<link rel="stylesheet" href="css/public.css">
+	<link rel="stylesheet" href="css/login.css">
+</head>
+<body>
+	<div id="loginBox">
+		<div id="loginBox_bef"></div>
+		<div id="loginBox_beh">
+			<div class="chooseWhat">
+				<div id="choseDiv">
+					<a href="personalPage.html">
+						<img id="closeBtn" src="../img/login_close.png" alt="">
+					</a>
+					<a id="regBtn" href="#">注册</a>
+				</div>
+				<div id="toolsChoose">
+					<div id="choseLogin">
+						<h1>账号密码登录</h1>
+						<ul>
+							<li class="choose_lis">
+								<span class="choose_span">手机号/邮箱</span>	<input id="userId_l" type="text" value="">
+							</li>
+							<li class="choose_lis">
+								<span class="choose_span">输入密码</span><input id="userPass_l" type="password" value="">
+							</li>
+						</ul>
+						<input type="button" value="登 录" id="dengBtn">
+					</div>
+					<div id="choseReg">
+						<h1>注册虾米</h1>
+						<ul>
+							<li class="choose_lis">
+								<span class="choose_span">手机号/邮箱</span>	<input id="userId_r" type="text" value="">
+							</li>
+							<li class="choose_lis">
+								<span class="choose_span">输入密码</span><input id="userPass_r" type="password" value="">
+							</li>
+							<!--<li class="choose_lis">-->
+								<!--<span class="choose_span">确认密码</span><input id="userPass_re" type="password" value="">-->
+							<!--</li>-->
+						</ul>
+						<input type="button" value="注   册" id="regBtn01">
+						
+					</div>
+					<div class="helpDiv">
+						<a href="#"></a>
+						<a href="#">忘记密码？</a>
+					</div>
+				</div>
+			</div>
+			<div class="partner">
+				<a href="#"><img src="../img/login_type_alipay.png" alt=""></a>
+				<a href="#"><img src="../img/login_type_taobao.png" alt=""></a>
+				<a href="#"><img src="../img/login_type_qq.png" alt=""></a>
+				<a href="#"><img src="../img/login_type_weibo.png" alt=""></a>
+				<a href="#"><img src="../img/login_type_wechat.png" alt=""></a>
+			</div>
+		</div>
+	</div>
+<script>
+	let regbtn = document.getElementById("regBtn")
+	let clickNum = 0;
+	regbtn.onclick = function(){
+		clickNum ++;
+		if(clickNum%2!=0){
+			document.getElementById("choseLogin").style.display = "none";
+			document.getElementById("choseReg").style.display = "block";
+			regbtn.innerHTML = "登录"
+		}else{
+			document.getElementById("choseLogin").style.display = "block";
+			document.getElementById("choseReg").style.display = "none";
+			regbtn.innerHTML = "注册"
+		}
+		
+	}
+</script>
+</body>
+</html>

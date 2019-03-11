@@ -1,0 +1,34 @@
+{
+	"pcont": {
+		"pcont01": [
+			{"url01": "/static/img/ppage05.jpg","msg01": "会员中心","url02": "","msg02": "还有97天到期","url03": "/static/img/dis-cont01.jpg","msg03": ""},
+			{"url01": "/static/img/ppage06.jpg","msg01": "福利任务","url02": "","msg02": "","url03": "/static/img/dis-cont01.jpg","msg03": ""},
+			{"url01": "/static/img/ppage07.jpg","msg01": "养虾米","url02": "","msg02": "","url03": "/static/img/dis-cont01.jpg","msg03": ""}
+		],
+		"pcont02": [
+			{"url01": "/static/img/ppage08.jpg","msg01": "设置","url02": "","msg02": "","url03": "/static/img/dis-cont01.jpg","msg03": ""},
+			{"url01": "/static/img/ppage09.jpg","msg01": "我的音乐偏好","url02": "","msg02": "","url03": "/static/img/dis-cont01.jpg","msg03": ""},
+			{"url01": "/static/img/ppage10.jpg","msg01": "夜间模式","url02": "/static/img/ppagesK01.png","msg02": "","url03": "","msg03": ""},
+			{"url01": "/static/img/ppage11.jpg","msg01": "主题换肤","url02": "","msg02": "虾米白","url03": "/static/img/dis-cont01.jpg","msg03": ""},
+			{"url01": "/static/img/ppage12.jpg","msg01": "驾驶模式","url02": "","msg02": "","url03": "/static/img/dis-cont01.jpg","msg03": ""},
+			{"url01": "/static/img/ppage13.jpg","msg01": "亲子模式","url02": "","msg02": "","url03": "/static/img/dis-cont01.jpg","msg03": ""},
+			{"url01": "/static/img/ppage14.jpg","msg01": "定时模式","url02": "","msg02": "","url03": "/static/img/dis-cont01.jpg","msg03": ""}
+		],
+		"pcont03": [
+			{"url01": "/static/img/ppage15.jpg","msg01": "赞赏","url02": "","msg02": "","url03": "/static/img/dis-cont01.jpg","msg03": ""},
+			{"url01": "/static/img/ppage16.jpg","msg01": "二维码","url02": "","msg02": "","url03": "/static/img/dis-cont01.jpg","msg03": ""}
+		],
+		"pcont04": [
+			{"url01": "/static/img/ppage17.jpg","msg01": "虾币","url02": "","msg02": "0.00","url03": "/static/img/dis-cont01.jpg","msg03": ""},
+			{"url01": "/static/img/ppage18.jpg","msg01": "免流听音乐","url02": "","msg02": "","url03": "/static/img/dis-cont01.jpg","msg03": ""},
+			{"url01": "/static/img/ppage19.jpg","msg01": "邀请好友，互得VIP会员","url02": "","msg02": "","url03": "/static/img/dis-cont01.jpg","msg03": ""},
+			{"url01": "/static/img/ppage20.jpg","msg01": "点歌台","url02": "","msg02": "官方电话短信通知","url03": "/static/img/dis-cont01.jpg","msg03": ""},
+			{"url01": "/static/img/ppage21.jpg","msg01": "3小时公益","url02": "","msg02": "","url03": "/static/img/dis-cont01.jpg","msg03": ""}
+
+		],
+		"pcont05": [
+			{"url01": "/static/img/ppage22.jpg","msg01": "意见反馈","url02": "","msg02": "","url03": "/static/img/dis-cont01.jpg","msg03": ""},
+			{"url01": "/static/img/ppage23.jpg","msg01": "我的客服","url02": "","msg02": "","url03": "/static/img/dis-cont01.jpg","msg03": ""}
+		]
+	}
+}

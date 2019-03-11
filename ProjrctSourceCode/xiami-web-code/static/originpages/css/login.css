@@ -1,0 +1,126 @@
+#loginBox{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+#loginBox_bef{
+    width: 100%;
+    height: 100%;
+    background: url("../../img/timg.jpg") 0 0 no-repeat;
+    background-size: 100% 100%;
+}
+/*注册/登录相关*/
+#loginBox_beh{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0,.4);
+    display: -webkit-flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#choseDiv{
+    height: .6rem;
+    display: -webkit-flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#choseDiv a{
+    display: block;
+    font-size: .15rem;
+    color: #ffffff;
+    margin: 0 .22rem;
+}
+#choseDiv #closeBtn{
+    width: .18rem;
+    height: .18rem;
+}
+#toolsChoose{
+    width: 3.25rem;
+    margin: 0 auto;
+}
+#choseLogin{
+   /*display: none;*/
+}
+
+#choseLogin h1{
+   font-size: .33rem;
+    color: #ffffff;
+    font-weight: 100;
+    margin-top: .3rem;
+}
+.choose_lis{
+    display: block;
+    height: .35rem;
+    margin-top: .2rem;
+    display: -webkit-flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.choose_span{
+    display: block;
+    height: .35rem;
+    font-size: .2rem;
+    line-height: .35rem ;
+    color: #cccccc;
+}
+.choose_lis input{
+    display: block;
+    height: .3rem;
+    width:2.0rem ;
+    margin-right: .1rem;
+    background-color: rgba(0,0,0, .1);
+    border:none;
+    color: #cccccc;
+    font-size: .18px;
+    text-indent: .05rem;
+}
+#dengBtn, #regBtn01{
+    display: block;
+    width: 3.2rem;
+    height: .48rem;
+    background-color:#5055644f;
+    border: 1px solid #4b5a85;
+    outline: none;
+    border-radius: .1rem;
+    font-size: .15rem;
+    color: #ffffff;
+    margin: .45rem auto 0;
+}
+.helpDiv{
+    height: .6rem;
+    display: -webkit-flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.helpDiv a{
+    display: -webkit-flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #ffffff;
+    font-size: .12rem;
+}
+#choseReg{
+    display: none;
+}
+#choseReg h1{
+    font-size: .33rem;
+    color: #ffffff;
+    font-weight: 100;
+    margin-top: .3rem;
+}
+
+
+.partner{
+    display: -webkit-flex;
+    align-items: center;
+    margin-bottom: .5rem;
+}
+.partner img{
+    width: .4rem;
+    height: .4rem;
+    margin-left: .2rem;
+}

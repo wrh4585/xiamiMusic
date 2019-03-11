@@ -1,0 +1,36 @@
+{
+    "mayLike": [
+        {"url":"/static/img/mymusic13.jpg","msg":"90后在KTV"},
+        {"url":"/static/img/mymusic14.jpg","msg":"前奏直接秒杀的纯音乐"},
+        {"url":"/static/img/mymusic15.jpg","msg":"一听就入迷的英文歌"},
+        {"url":"/static/img/mymusic13.jpg","msg":"90后在KTV"},
+        {"url":"/static/img/mymusic14.jpg","msg":"前奏直接秒杀的纯音乐"},
+        {"url":"/static/img/mymusic15.jpg","msg":"一听就入迷的英文歌"},
+        {"url":"/static/img/mymusic13.jpg","msg":"90后在KTV"},
+        {"url":"/static/img/mymusic14.jpg","msg":"前奏直接秒杀的纯音乐"},
+        {"url":"/static/img/mymusic15.jpg","msg":"一听就入迷的英文歌"}
+    ],
+    "myLists":{
+        "ml01":[
+            {"url01": "/static/img/mymusic02.jpg","msg01": "本地歌曲","url02":"","msg02": "","url03": "","msg03": "","url04": "","msg04": "","url05": "","msg05": "","url06": "/static/img/dis-cont01.jpg","msg06": ""}
+        ],
+        "ml02":[
+            {"url01": "/static/img/mymusic03.jpg","msg01": "最近播放","url02": "","msg02": "4首","url03": "/static/img/mymusic08.jpg","msg03": "","url04": "/static/img/mymusic08.jpg","msg04": "","url05": "/static/img/mymusic08.jpg","msg05": "","url06": "","msg06": ""}
+        ],
+        "ml03":[
+            {"url01": "/static/img/mymusic04.jpg","msg01": "我的收藏","url02": "","msg02": "歌曲/专辑/艺人/MV/头条","url03": "","msg03": "","url04": "","msg04": "","url05": "","msg05": "","url06": "/static/img/dis-cont01.jpg","msg06": ""}
+        ],
+        "ml04":[
+            {"url01": "/static/img/mymusic05.jpg","msg01": "离线音乐包","url02": "","msg02": "免流量","url03": ".jpg","msg03": "","url04": "","msg04": "","url05": "","msg05": "","url06": "/static/img/dis-cont01.jpg","msg06": ""}
+        ],
+        "ml05":[
+            {"url01": "/static/img/mymusic06.jpg","msg01": "已购音乐","url02": "","msg02": "","url03": "","msg03": "","url04": "","msg04": "","url05": "","msg05": "","url06": "/static/img/dis-cont01.jpg","msg06": ""}
+        ],
+        "ml06":[
+            {"url01": "/static/img/mymusic07.jpg","msg01": "会员免费曲库","url02": "","msg02": "0/0","url03": "","msg03": "","url04": "","msg04": "","url05": "","msg05": "","url06": "/static/img/dis-cont01.jpg","msg06": ""}
+        ]
+    }
+
+
+
+}

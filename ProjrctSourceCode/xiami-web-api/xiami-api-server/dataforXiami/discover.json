@@ -1,0 +1,68 @@
+{
+    "dSwiper": [
+        {"url":"/static/img/dis-swiper01.jpg","msg":""},
+        {"url":"/static/img/dis-swiper02.jpg","msg":""},
+        {"url":"/static/img/dis-swiper01.jpg","msg":""},
+        {"url":"/static/img/dis-swiper02.jpg","msg":""}
+    ],
+    "doWhat": {
+
+        "dwt01": [
+            {"url":"/static/img/xuanze01.jpg","msg":"每日30首"},
+            {"url":"/static/img/xuanze02.jpg","msg":"AI电台"},
+            {"url":"/static/img/xuanze03.jpg","msg":"专注"},
+            {"url":"/static/img/xuanze04.jpg","msg":"排行榜"}
+        ],
+        "dwt02": [
+            {"url":"/static/img/xuanze05.jpg","msg":"曲风流派"},
+            {"url":"/static/img/xuanze06.jpg","msg":"主题风格"},
+            {"url":"/static/img/xuanze07.jpg","msg":"艺人"}
+        ],
+        "dwt03": [
+            {"url":"/static/img/xuanze08.jpg","msg":"MV"},
+            {"url":"/static/img/xuanze09.jpg","msg":"现场"},
+            {"url":"/static/img/xuanze10.jpg","msg":"爱豆"},
+            {"url":"/static/img/xuanze11.jpg","msg":"弹唱"}
+        ]
+    },
+    "contHot": {
+        "cHot01": [
+            {"url01":"/static/img/dis-cont08.jpg","msg01":"","url02":"/static/img/dis-cont09.jpg","msg02":"招摇 电视剧配乐","url03": "/static/img/dis-cont10.jpg","msg03": "只要有想见的…","msg04": "王源"}],
+        "cHot02":[
+            {"url01":"/static/img/dis-cont08.jpg","msg01":"","url02":"/static/img/dis-cont09.jpg","msg02":"发财 电视剧配乐","url03": "/static/img/dis-cont10.jpg","msg03": "只有想见的…","msg04": "大大"}
+        ]
+
+    },
+    "mustListen": {
+        "mListens01": [
+            {"url":"/static/img/dis-cont02.jpg","msg01":"[欧美]适合开车","msg02":"时听的音乐·电音篇","msg03":"","msg04":"","msg05":"","msg06":""},
+            {"url":"/static/img/dis-cont03.jpg","msg01":"[华语]基于2017","msg02":"伤感DJ串烧的什么什么歌","msg03":"","msg04":"","msg05":"","msg06":""},
+            {"url":"/static/img/dis-cont04.jpg","msg01":"[抒情]连歌词都","msg02":"能写到一个人的心里","msg03":"","msg04":"","msg05":"","msg06":""},
+            {"url":"/static/img/dis-cont02.jpg","msg01":"[欧美]适合开车","msg02":"时听的音乐·电音篇","msg03":"","msg04":"","msg05":"","msg06":""},
+            {"url":"/static/img/dis-cont03.jpg","msg01":"[华语]基于2017","msg02":"伤感DJ串烧的什么什么歌","msg03":"","msg04":"","msg05":"","msg06":""},
+            {"url":"/static/img/dis-cont04.jpg","msg01":"[抒情]连歌词都","msg02":"能写到一个人的心里","msg03":"","msg04":"","msg05":"","msg06":""}
+        ],
+        "mListens02": [
+            {"url":"/static/img/dis-cont05.jpg","msg01":"","msg02":"","msg03":"旋律过耳不忘","msg04":"流行乐每日推荐","msg05":"","msg06":""},
+            {"url":"/static/img/dis-cont06.jpg","msg01":"","msg02":"","msg03":"经典原声荟萃","msg04":"OST/原声带每日推荐","msg05":"","msg06":""},
+            {"url":"/static/img/dis-cont04.jpg","msg01":"","msg02":"","msg03":"抚平受伤情绪","msg04":"治愈系每日推荐","msg05":"","msg06":""},
+            {"url":"/static/img/dis-cont05.jpg","msg01":"","msg02":"","msg03":"旋律过耳不忘","msg04":"流行乐每日推荐","msg05":"","msg06":""},
+            {"url":"/static/img/dis-cont06.jpg","msg01":"","msg02":"","msg03":"经典原声荟萃","msg04":"OST/原声带每日推荐","msg05":"","msg06":""},
+            {"url":"/static/img/dis-cont04.jpg","msg01":"","msg02":"","msg03":"抚平受伤情绪","msg04":"治愈系每日推荐","msg05":"","msg06":""}
+        ],
+        "mListens03": [
+            {"url":"/static/img/dis-cont22.jpg","msg01":"","msg02":"","msg03":"","msg04":"","msg05":"Rihanna","msg06":"虾米AI为你推荐"},
+            {"url":"/static/img/dis-cont22.jpg","msg01":"","msg02":"","msg03":"","msg04":"","msg05":"Rihanna","msg06":"虾米AI为你推荐"},
+            {"url":"/static/img/dis-cont22.jpg","msg01":"","msg02":"","msg03":"","msg04":"","msg05":"Rihanna","msg06":"虾米AI为你推荐"},
+            {"url":"/static/img/dis-cont23.jpg","msg01":"","msg02":"","msg03":"","msg04":"","msg05":"茄子蛋","msg06":"虾米AI为你推荐"},
+            {"url":"/static/img/dis-cont23.jpg","msg01":"","msg02":"","msg03":"","msg04":"","msg05":"茄子蛋","msg06":"虾米AI为你推荐"},
+            {"url":"/static/img/dis-cont23.jpg","msg01":"","msg02":"","msg03":"","msg04":"","msg05":"茄子蛋","msg06":"虾米AI为你推荐"}
+        ]
+    },
+    "gussY": {
+        "gussY01": [
+            {"url01":"/static/img/dis-cont11.jpg","msg01":"","url02":"/static/img/dis-cont14.jpg","msg02":"","url03": "/static/img/dis-cont15.jpg","msg03": "/static/img/dis-cont17.jpg","url04":"","msg04": "","msg05": "蜡笔的魔方、三六酒、kitaza、孙鹏刚","msg06": "等2272人都收藏"},
+            {"url01":"/static/img/dis-cont12.jpg","msg01":"","url02":"/static/img/dis-cont14.jpg","msg02":"","url03": "/static/img/dis-cont15.jpg","msg03": "/static/img/dis-cont17.jpg","url04":"","msg04": "","msg05": "马什么梅、马冬梅、什么冬梅","msg06": "等2272人都收藏"}
+        ]
+    }
+}
