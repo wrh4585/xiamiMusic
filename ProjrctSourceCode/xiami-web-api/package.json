@@ -1,0 +1,19 @@
+{
+  "name": "xiamimusic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./xiami-api-server/xiamiServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "lookingforw_4585",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "concurrently": "^5.2.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}
